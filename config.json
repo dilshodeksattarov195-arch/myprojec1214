@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "ordervrocess",
+        "uuid": 6693996,
+        "checksum": "oeais"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
